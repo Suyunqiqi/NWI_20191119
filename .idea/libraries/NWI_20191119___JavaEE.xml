@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="NWI_20191119__(JavaEE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../NEI_20191118__(JavaEE企业级电商平台)/web/WEB-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.0.M13/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.0.M13/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../NEI_20191118__(JavaEE企业级电商平台)/web/WEB-INF/lib" recursive="false" />
+  </library>
+</component>

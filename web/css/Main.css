@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    /*去除超链接样式*/
+    text-decoration: none;
+}
+#top{
+    border: 1px solid #ef3a3b;
+    height: 178px;
+}
+#top img{
+    width: 1903px;
+}
+.nav-search{
+    height: 36px;
+    width: 355px;
+    position: relative;
+    bottom: 180px;
+    left: 780px;
+}
+#nav-search-form{
+    display: block;
+    padding:0 0 0 10px ;
+    border: 1px solid hsla(0,0%,100%,0);
+    border-radius: 2px;
+    background-color: #ffffff;
+}
+#nav-search-form input{
+    height: 36px;
+    width: 355px;
+    border: none;
+}
+.jd_container{
+    height: 3000px;
+    width: 1190px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid #ef3a3b;
+}
